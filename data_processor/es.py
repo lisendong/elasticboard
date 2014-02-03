@@ -3,7 +3,7 @@ import elasticsearch
 INDEX_NAME = 'demo'
 
 ES_NODE = {
-    'host': 'localhost',
+    'host': '127.0.0.1',
     'port': 9200,
 }
 
